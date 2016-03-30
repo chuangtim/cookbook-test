@@ -1,0 +1,1 @@
+include_attribute 'cookbook-test::nodejs_install'
